@@ -75,11 +75,6 @@ public class ChartController {
     @Resource
     private BiMessageProducer biMessageProducer;
 
-    @Resource
-    private ChartMapper chartMapper;
-
-    @Resource
-    private SqlUtils sqlUtils;
 
     // region 增删改查
 
